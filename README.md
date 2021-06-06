@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/key-joshua/Tweak-Backend-Challenge/tree/develop.svg?style=svg))](https://circleci.com/gh/key-joshua/Tweak-Backend-Challenge/tree/develop)
+[![CircleCI](https://circleci.com/gh/key-joshua/Tweak-Backend-Challenge/tree/develop.svg?style=svg)](https://circleci.com/gh/key-joshua/Tweak-Backend-Challenge/tree/develop)
 [![Maintainability](https://api.codeclimate.com/v1/badges/085c4ec622951f30820b/maintainability)](https://codeclimate.com/github/key-joshua/Tweak-Backend-Challenge/maintainability)
 
 # BACKEND CHALLEGE
